@@ -1,0 +1,538 @@
+{
+ "extra": {
+  "marouchka-logo.png": "ok",
+  "sila-logo-wt.png": "ok",
+  "sila-logo-wt2.png": "ok",
+  "sila-logo-tile.jpg": "ok",
+  "sila-logo-full.jpg": "ok",
+  "sila-logo-full.png": "HTTP Error 404: Not Found"
+ },
+ "products": {
+  "dolan": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YCt6rendp3UzsqadopP39n9KEclAp0rnkYbUwcon.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/F1tl3pzjed3KA4BhN8HCtRtI1Lx8bPISdKZlte0W.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YCt6rendp3UzsqadopP39n9KEclAp0rnkYbUwcon.png"
+   ],
+   "file": "covers/dolan.png"
+  },
+  "sa3a-9abla-lmawt": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1co2Bn38CpwaNeFCm44z41qRRuV0larZUUXiONkZ.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1co2Bn38CpwaNeFCm44z41qRRuV0larZUUXiONkZ.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/j80riZ1bqBDxbAXcn8ntG23Xx30fvhie8quWBRSA.png"
+   ],
+   "file": "covers/sa3a-9abla-lmawt.png"
+  },
+  "3ahd": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/dh9QWHSNqHR00qI1KUWDLv40OahNi32ycAV2NPLK.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/0H1LeHnE1wqGTg6opDJmsdIlWl6XmqFMdpQm0D1E.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/dh9QWHSNqHR00qI1KUWDLv40OahNi32ycAV2NPLK.png"
+   ],
+   "file": "covers/3ahd.png"
+  },
+  "9alb-youssoufi": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/0caqwp2VbtWTBU9UpjwyffeVVzMcHH4uOHU3S3VS.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/0caqwp2VbtWTBU9UpjwyffeVVzMcHH4uOHU3S3VS.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/KxbDzMevaNrUS34NbiJlYWRJ5Q5cYrzy9tZlPT8n.png"
+   ],
+   "file": "covers/9alb-youssoufi.png"
+  },
+  "in-kyiv-3": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/dljcWXbbyOtVQyr6QWWj4xYGB1vc2tOkPjx4P1se.jpg",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/dljcWXbbyOtVQyr6QWWj4xYGB1vc2tOkPjx4P1se.jpg",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/hunpVtz2svmgbChLW2dyxKJ7fZnztEETWYdosDgh.jpg"
+   ],
+   "file": "covers/in-kyiv-3.jpg"
+  },
+  "echoes-of-deceit": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/mrkhR3NRPmcqSbwhStxsYRrSXlJkrOFS8gVu2vjX.jpg",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/EunlZ4okQEJRP4kc2chslDb2wNOQZKGgSUtVG57d.jpg",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/mrkhR3NRPmcqSbwhStxsYRrSXlJkrOFS8gVu2vjX.jpg"
+   ],
+   "file": "covers/echoes-of-deceit.jpg"
+  },
+  "white-fang": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/B8ghe9eeLd9vt7gCRT0zgqeczXkmFgM3eHnHEuW2.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/B8ghe9eeLd9vt7gCRT0zgqeczXkmFgM3eHnHEuW2.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YGpFqvOBKhsrwyfcEJbATcY2C4Xcl8fWtNfxU1ZW.png"
+   ],
+   "file": "covers/white-fang.png"
+  },
+  "the-sea-wolf": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/BdXmXGHa9BWnRpWlh9MgYNciSLcacdNO4omSUvT8.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/BdXmXGHa9BWnRpWlh9MgYNciSLcacdNO4omSUvT8.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/m0uePGmb9Ym6n2DSx5nVCNlGeg0gMEXYduC3hpoX.png"
+   ],
+   "file": "covers/the-sea-wolf.png"
+  },
+  "the-knit-killer": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/LyQYCZcNu2dIta9Et3ry8rq6rgdMnaPAdmW85O08.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/LyQYCZcNu2dIta9Et3ry8rq6rgdMnaPAdmW85O08.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/cbGktPwr7G4CBK76oJiZeHnd0WhOLprKH9XxBdsF.png"
+   ],
+   "file": "covers/the-knit-killer.png"
+  },
+  "in-kyiv": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/DzqNPVhWg71b7nGDnpPmPT6SUo5n7pXtDIDtl5Lc.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/DzqNPVhWg71b7nGDnpPmPT6SUo5n7pXtDIDtl5Lc.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zaaIHVkSxukxJOM7p4a6ygVx81PeOX450DKMlHqT.png"
+   ],
+   "file": "covers/in-kyiv.png"
+  },
+  "mina-ramad-oulidate-alakhissaiya": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/MEOM7tVKy5e6oOLi2WrpSo7pzwk2FUzeVrn4bU5Q.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/47DI4FYF0Dc5SpXfFtgLaIVVy0cFcBgaSUCFCfT0.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/MEOM7tVKy5e6oOLi2WrpSo7pzwk2FUzeVrn4bU5Q.png"
+   ],
+   "file": "covers/mina-ramad-oulidate-alakhissaiya.png"
+  },
+  "ounthatharya": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fYY1d2iIriZx3JExZYQ6R3YinRFjRefFKx2SXpGu.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fYY1d2iIriZx3JExZYQ6R3YinRFjRefFKx2SXpGu.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/hqOfWs0u93r34AhtYAWsQJK1o5P2FGhkxDdEqdFz.png"
+   ],
+   "file": "covers/ounthatharya.png"
+  },
+  "hamassatijabia": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/5r6okmjr6z8OqZROCdZdJ11VGAe2rsjfdaiECVS0.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/5r6okmjr6z8OqZROCdZdJ11VGAe2rsjfdaiECVS0.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/xaoZAS34vzASA19YgiwtEUzKffEJhXMIVn7rCHfA.png"
+   ],
+   "file": "covers/hamassatijabia.png"
+  },
+  "lhth-anksar-aazm-oesrar": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/kG48ICgoVc6LFy3AasSQ4FmgwSmm4jPkDhyTIrg9.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fANZz05Wl6WAxw7jbvgeWhs1ZtupmASCkgeet40I.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/kG48ICgoVc6LFy3AasSQ4FmgwSmm4jPkDhyTIrg9.png"
+   ],
+   "file": "covers/lhth-anksar-aazm-oesrar.png"
+  },
+  "aashha-llh-thlo-alhya": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/9QIbLH7A8JMEtWMF7Nbpt7aSlbGMK1C7ve6S7VJ8.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/9QIbLH7A8JMEtWMF7Nbpt7aSlbGMK1C7ve6S7VJ8.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/XpytpPosUVPnzaqsOWi39rQyFDZ9BYe1lk7nQUA7.png"
+   ],
+   "file": "covers/aashha-llh-thlo-alhya.png"
+  },
+  "anth-mn-folath": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/tDen4ZKQMh5aDaPaEWKrSZWODQwsFfSoplR6ItbJ.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/N5q4wxq086TYFxOYwdrqb6XuO2vvuxtJ2cXRbMqr.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/tDen4ZKQMh5aDaPaEWKrSZWODQwsFfSoplR6ItbJ.png"
+   ],
+   "file": "covers/anth-mn-folath.png"
+  },
+  "khlo-maa-alnfs": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/3TdkWgO079Ki9PYbpPDJM7F72SvyEuOiJNChsxyD.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/3TdkWgO079Ki9PYbpPDJM7F72SvyEuOiJNChsxyD.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/4reuVsB1eiVIP16gQ19zWQOTZxLzXrpvGVU0lR55.png"
+   ],
+   "file": "covers/khlo-maa-alnfs.png"
+  },
+  "20-jraa-ltrmym-althat": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/LYb0OjUAwH7zsInGoxG2tKaO4crCMHtsizuNJ2CU.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/LYb0OjUAwH7zsInGoxG2tKaO4crCMHtsizuNJ2CU.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/mKbWhtPJiTJB9XMm9y5NHfPp0MXNoYHB2icIjJQR.png"
+   ],
+   "file": "covers/20-jraa-ltrmym-althat.png"
+  },
+  "5-ass-llnjah": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/z5GYCWOi6cM2tTf9C2I7RSV8PNPtAzy5sbkFkn72.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/i3xVZ8payngahLfL1XVE6wyuL4xwoUCBKslns9hJ.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/z5GYCWOi6cM2tTf9C2I7RSV8PNPtAzy5sbkFkn72.png"
+   ],
+   "file": "covers/5-ass-llnjah.png"
+  },
+  "ghyr-hyatk-fy-90-yoma": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/eBHmz4DWTmCebV2Y5lK0t05RJRTqTafNixYjhHK8.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/IDutm0kxnnS4iFdybsGEWX4fIEwj1BbOxbIZpACG.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/eBHmz4DWTmCebV2Y5lK0t05RJRTqTafNixYjhHK8.png"
+   ],
+   "file": "covers/ghyr-hyatk-fy-90-yoma.png"
+  },
+  "lisanona-l3arabi": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/oTDM5mj2BL0DJsbuLYq6F93fl76Y65JlOyBQYYV9.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/oTDM5mj2BL0DJsbuLYq6F93fl76Y65JlOyBQYYV9.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/rr4jwkBLC5IxysDCrO0MZ3GtcHCpgwvtVIKphX2U.png"
+   ],
+   "file": "covers/lisanona-l3arabi.png"
+  },
+  "nsaeh-albkalorya": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fj0BS1euUC5yD3sbGx3QMpGqucBCmDAsnbTHxlLG.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/eNTne0VanwKuhN8SV7MV9gED6iESDn9XeEiTzMHA.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fj0BS1euUC5yD3sbGx3QMpGqucBCmDAsnbTHxlLG.png"
+   ],
+   "file": "covers/nsaeh-albkalorya.png"
+  },
+  "almojh-fy-alflsf": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/NPzkXntpqkZ6Dxgrs1dvCcqrBINKbrLQqWJWthtY.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/NPzkXntpqkZ6Dxgrs1dvCcqrBINKbrLQqWJWthtY.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SiaGAs8WivthLa23YIVvWVBcK3SxCFeyIICpJwJH.png"
+   ],
+   "file": "covers/almojh-fy-alflsf.png"
+  },
+  "mshoary-maa-alosoas-alkhry": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/GJCJAQhQHTf3Q9C5dKkkkh2QCJM093kwfVZo6Gnm.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/GJCJAQhQHTf3Q9C5dKkkkh2QCJM093kwfVZo6Gnm.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/qVzgX2U4ynwSaZXrePWn4VhIJ9kqtrLWJI1OFa9f.png"
+   ],
+   "file": "covers/mshoary-maa-alosoas-alkhry.png"
+  },
+  "ana-lona-tyzyry": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/v6Je1lO9e8e4y9n6trRziUDLwz5m0RBySc2tsr56.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/i4XnUA9yoGQICMk57YJBSc7dFu4JkPKsDmd4KQlo.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/v6Je1lO9e8e4y9n6trRziUDLwz5m0RBySc2tsr56.png"
+   ],
+   "file": "covers/ana-lona-tyzyry.png"
+  },
+  "aktfyt-bk": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/oHwj5sw4W54h6vJI9iIRrAfIgGtRkhGUIx2kWWWJ.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/82mFtvD8Ojt032FcrlaytlGUiCcFrZiYF20EDEOw.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/oHwj5sw4W54h6vJI9iIRrAfIgGtRkhGUIx2kWWWJ.png"
+   ],
+   "file": "covers/aktfyt-bk.png"
+  },
+  "ana-bynkm": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/wpAmynWoorMFX54Qon8MLPgwDAdBitixhEzXcCGu.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/ScGoWwZPQufrZGwhJzFL51KwNiwC8ZuwXX3GuDZF.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/wpAmynWoorMFX54Qon8MLPgwDAdBitixhEzXcCGu.png"
+   ],
+   "file": "covers/ana-bynkm.png"
+  },
+  "nara-2": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/lHDaRwkFyaem4wG6O22wuGwnrLhE7FXNOWKFJk1N.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/VUnKNoiQ2fnEQbh1jS6gGZx9TnhzR7lpmXSJr64h.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/lHDaRwkFyaem4wG6O22wuGwnrLhE7FXNOWKFJk1N.png"
+   ],
+   "file": "covers/nara-2.png"
+  },
+  "amra-bthat-zlk": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1rsEIy1CKlC7G1aGZS3Vpiyb2tOiodbCZivfSEVQ.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1rsEIy1CKlC7G1aGZS3Vpiyb2tOiodbCZivfSEVQ.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/b4mXc9iJu0mxemiQfk4N2KqSs57Lm9x3gfYG6CaO.png"
+   ],
+   "file": "covers/amra-bthat-zlk.png"
+  },
+  "therapy-session": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/eTX6WOac5TDraTEJtK2NHTiskJdtoIKK4RbgYieL.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/5yDFX5cpYH59FB5rHdeWtPJjvlHxmlSmAOex4OLn.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/eTX6WOac5TDraTEJtK2NHTiskJdtoIKK4RbgYieL.png"
+   ],
+   "file": "covers/therapy-session.png"
+  },
+  "thor-alzyton": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YMoGHQagZtpArKazLgHk2S1ylVjgUYyX4KhvMvkA.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/6P41hVErC9WGrtcRjLB6TjMMXgwOdHdEqXz2elYj.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YMoGHQagZtpArKazLgHk2S1ylVjgUYyX4KhvMvkA.png"
+   ],
+   "file": "covers/thor-alzyton.png"
+  },
+  "aljd-fatm": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/C5IASYhXmsUUYoepYiLZqklsnWZayhnDvys9JUcT.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/C5IASYhXmsUUYoepYiLZqklsnWZayhnDvys9JUcT.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/PpHgFhdTSkm8KBh8tlxLasM38NoS4KapwDgECbCp.png"
+   ],
+   "file": "covers/aljd-fatm.png"
+  },
+  "kdr-aashryny": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/foz2ZKieC2tWRywmP5FCi5lRDJCDyv2Aks5PeJEC.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/foz2ZKieC2tWRywmP5FCi5lRDJCDyv2Aks5PeJEC.png"
+   ],
+   "file": "covers/kdr-aashryny.png"
+  },
+  "banafsadj-elroh": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/suJETpMp1k3IgPC6lfoVW2HScGCFOr7lymvJCkXo.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/suJETpMp1k3IgPC6lfoVW2HScGCFOr7lymvJCkXo.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/xk8QC4BP8czxN68mrQvT4tmh9j5chBcuTZIbGiL6.png"
+   ],
+   "file": "covers/banafsadj-elroh.png"
+  },
+  "almtathron": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/IJQldiYvnipzE85Bk0cWGdeSh1D5Ub0TOUrncmvF.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/IJQldiYvnipzE85Bk0cWGdeSh1D5Ub0TOUrncmvF.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/WTnFnu5Ol8soFkT4w8HCtkZA2AfG2RrH9vk9GNbH.png"
+   ],
+   "file": "covers/almtathron.png"
+  },
+  "rhl-alhya": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8551AKao23YBunC9Swogetv7Dv5IZaatre48nrNp.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8551AKao23YBunC9Swogetv7Dv5IZaatre48nrNp.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/bXsnczAGgpTyjwDBsjdhc3uNzR0RsVRhE3s9w2d8.png"
+   ],
+   "file": "covers/rhl-alhya.png"
+  },
+  "alsmfony-alaashryn": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/MTk0oUAieLIJGi5xPv2fVYTqYjvGr2Phts3WAmyV.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Kv2nOdzAklr2KjF3gOccifkG8TAaBSFJE7d4RuhB.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/MTk0oUAieLIJGi5xPv2fVYTqYjvGr2Phts3WAmyV.png"
+   ],
+   "file": "covers/alsmfony-alaashryn.png"
+  },
+  "alfkh-alakhyr": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/UShYAdv9GkELw7wsiJzLqAoZxzyciKBSLQdhOIAE.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/BvW0yqjp2tc0eWQkgmJn7oqpzKZkOCcIojDaTXoi.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/UShYAdv9GkELw7wsiJzLqAoZxzyciKBSLQdhOIAE.png"
+   ],
+   "file": "covers/alfkh-alakhyr.png"
+  },
+  "mn-tyn": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/gMj7DfH35iQNnZYyj2FAI4CQghot9CTAnpOPJQrr.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/gMj7DfH35iQNnZYyj2FAI4CQghot9CTAnpOPJQrr.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/jaEa4hfq7lUnKGRdMOO6uwTJ4hYWpMfKTJw6iovb.png"
+   ],
+   "file": "covers/mn-tyn.png"
+  },
+  "foasl": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/qVvQOIupDkE1J3QGbLgxT0UDgJoHpdbn0amf7jzl.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/PeyxDSJrhOuxMJBCrqnGQyWRU0Lu0q8zqlT5x4Np.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/qVvQOIupDkE1J3QGbLgxT0UDgJoHpdbn0amf7jzl.png"
+   ],
+   "file": "covers/foasl.png"
+  },
+  "klb-ynzf-hrofa": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/4fVyPnwEn8A4LFb25mEbhmrMF32SDFIfSI533Pqs.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/4fVyPnwEn8A4LFb25mEbhmrMF32SDFIfSI533Pqs.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/UujUjyxSsc9hHm01TFg60PVYcHB3lqI2OKB0BoMx.png"
+   ],
+   "file": "covers/klb-ynzf-hrofa.png"
+  },
+  "nghmat-alroh": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/I1XUwXqdE9LGT7cYuhttfLtYMCyzQyxSYs97LstK.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/I1XUwXqdE9LGT7cYuhttfLtYMCyzQyxSYs97LstK.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zb33sVHnWq9Qr4AkUeBxbQyWNfAvTQ22dK9237CV.png"
+   ],
+   "file": "covers/nghmat-alroh.png"
+  },
+  "rsael-mn-alklb": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8SwAK98NNHstosHoN5jc4oX6PQVzJsfo75W53s5j.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8SwAK98NNHstosHoN5jc4oX6PQVzJsfo75W53s5j.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/jjxWKAGPOlkZxbPuMGYfDu3PK3KqIc2qXnPxyysJ.png"
+   ],
+   "file": "covers/rsael-mn-alklb.png"
+  },
+  "alshta-yktb": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zJHc5OiY9PK2zLygmv7oo2MiRtiVBZdRlAGONTIs.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/NbXOCIev3MzOxjDYY7DZtW1Tmk3trw9zkxwAfH76.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zJHc5OiY9PK2zLygmv7oo2MiRtiVBZdRlAGONTIs.png"
+   ],
+   "file": "covers/alshta-yktb.png"
+  },
+  "tnahyd-alas": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Zqya5SsJIkJ6AcnQg0HBFNkxfHcg8bpWcdqyL3zM.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/LeRP8eA2k8NVkuSDfpA6hf9jcG5ihLFK9U7fNPMC.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Zqya5SsJIkJ6AcnQg0HBFNkxfHcg8bpWcdqyL3zM.png"
+   ],
+   "file": "covers/tnahyd-alas.png"
+  },
+  "klob-tboh-aal-alsn-alork": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/f4aOLzYLW6g5ZYGfAMbyDRz60IeX4qgbRqaLTmZg.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/W77S2Dnre9oMn0P8CuFpjzyvHUDC2w8bM1xPJpcC.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/f4aOLzYLW6g5ZYGfAMbyDRz60IeX4qgbRqaLTmZg.png"
+   ],
+   "file": "covers/klob-tboh-aal-alsn-alork.png"
+  },
+  "2309": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/RMsIYhqT4Yx81eyIqpVIpRYIs9o9AkUUEOsl0Bhu.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/QUHweM3ZJcX2kCZLf7h0DFroNUgvAo7hIGEvWI2B.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/RMsIYhqT4Yx81eyIqpVIpRYIs9o9AkUUEOsl0Bhu.png"
+   ],
+   "file": "covers/2309.png"
+  },
+  "nbd-alaaamry": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/7bkhxP68VhehxeYN3NEq47cj0dao95KIRLFHDBNF.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/7bkhxP68VhehxeYN3NEq47cj0dao95KIRLFHDBNF.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/jgLkysWxMxATP7Stza1PQ4ojcFKzOXhsS0Az1MX7.png"
+   ],
+   "file": "covers/nbd-alaaamry.png"
+  },
+  "aaatrafat-sry": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/xYen5itXniCLbIgzU3dOcbmPx0imoa7A6SGH07u1.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/xYen5itXniCLbIgzU3dOcbmPx0imoa7A6SGH07u1.png"
+   ],
+   "file": "covers/aaatrafat-sry.png"
+  },
+  "cello-in-sharp-c-ruby-red": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SfDKwyF5DEgiuiYJfU08YOa5ySakXzc2GbYMbxwt.jpg",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/48OrXpVzhpY0yOQmz0djB9SPJu5Ubd9CPQoIRDgT.jpg",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SfDKwyF5DEgiuiYJfU08YOa5ySakXzc2GbYMbxwt.jpg"
+   ],
+   "file": "covers/cello-in-sharp-c-ruby-red.jpg"
+  },
+  "vision-of-ecstasy": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/62hHHjLHzNpErQJ2ryEn5fOwZ0PhAcD64Gbnje2H.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/62hHHjLHzNpErQJ2ryEn5fOwZ0PhAcD64Gbnje2H.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Dv2lSiSMm7tPS9q91vmJlN8TWzcmKVP9yum8yim5.png"
+   ],
+   "file": "covers/vision-of-ecstasy.png"
+  },
+  "semicolon": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zEiWeOxErlnvmk93OSoJk8i4qijMxugFeafHQzdC.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YmT3jYVNTmbCrPjSLg2XFQkRnVkQJ8nXrXv18ZEn.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zEiWeOxErlnvmk93OSoJk8i4qijMxugFeafHQzdC.png"
+   ],
+   "file": "covers/semicolon.png"
+  },
+  "soul-ache": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8iqJYMKDiVoKbXmueR48cFf8km5B5v8n04gVdKTD.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/8iqJYMKDiVoKbXmueR48cFf8km5B5v8n04gVdKTD.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Th6R2vlCYVPxTuCdQp7ni043HIDUUp53Y2gYQfj2.png"
+   ],
+   "file": "covers/soul-ache.png"
+  },
+  "ynar-oalghol": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fc8Hhn1SiHVxWCbwB9UPOMTKBrovdKnD7A1qhJ63.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fc8Hhn1SiHVxWCbwB9UPOMTKBrovdKnD7A1qhJ63.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/ociMrfpbbR55tVwxCiBIeWXag45ZZNc1Oz2ycOqO.png"
+   ],
+   "file": "covers/ynar-oalghol.png"
+  },
+  "aryd-taaamy": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/sociBlalj7NGMSl6rQRUo234reNzmDLRt0fjCrPy.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/sociBlalj7NGMSl6rQRUo234reNzmDLRt0fjCrPy.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/thnq2b2DrUZK3LsUOdz4C5oZFK8Oz9AnxpkbKoSy.png"
+   ],
+   "file": "covers/aryd-taaamy.png"
+  },
+  "hkayat-hsna-llatfal": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/WcMjewnvoN5DciwCE0BnlMbkvzTP9rMYn2GYTahK.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/6YLRiyb5vF7sDatanVLBqdZUF7kXSOxlUbXLfhGP.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/WcMjewnvoN5DciwCE0BnlMbkvzTP9rMYn2GYTahK.png"
+   ],
+   "file": "covers/hkayat-hsna-llatfal.png"
+  },
+  "product-3": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SJ77X1Wwqo5I58vCcGWGHhHmTFyFm4GmuO1rS3ky.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/3obvYF8k23VsFmlmtRJ7EFiL6CypDqLg3HAHAnxV.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SJ77X1Wwqo5I58vCcGWGHhHmTFyFm4GmuO1rS3ky.png"
+   ],
+   "file": "covers/product-3.png"
+  },
+  "alhdr-alelhy-oalmaajzat-alyomy": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SE6fM52mhCXX4KV8NDwcshLwWNiw3NT7PO8duVOZ.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/SE6fM52mhCXX4KV8NDwcshLwWNiw3NT7PO8duVOZ.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/aXSbLdwjtLwIDxIO5orM32CFy9mLnpYmDbkaFS2V.png"
+   ],
+   "file": "covers/alhdr-alelhy-oalmaajzat-alyomy.png"
+  },
+  "lmatha-lanh-yhbna": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/UQVFWajCZoMrMdNQa2kVeh7TUjwbqXTwYztfM3bs.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/UQVFWajCZoMrMdNQa2kVeh7TUjwbqXTwYztfM3bs.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/inWi4jIdsDl1y8mfJ4kniVfVX340Z5oIYiOsNOIV.png"
+   ],
+   "file": "covers/lmatha-lanh-yhbna.png"
+  },
+  "alshrh-almamol-lsnn-alrsol-sl-allh-aalyh-oslm": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1V8CqYSistAjzr3dAsiWasrPw3oCD6F6sl0R9tGS.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/1V8CqYSistAjzr3dAsiWasrPw3oCD6F6sl0R9tGS.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/hkCW5APyEEbzCgAutLigYLiNTU5lhsL8ElSs62Gk.png"
+   ],
+   "file": "covers/alshrh-almamol-lsnn-alrsol-sl-allh-aalyh-oslm.png"
+  },
+  "ojdt-tryky": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/s0QqUVkdFeuzeuREDDURpLzzoIzax3ov8nmVPZDb.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/EuWncULxU4k5OvwtcTQKth4hqBfMZIYro07Fh5CL.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/s0QqUVkdFeuzeuREDDURpLzzoIzax3ov8nmVPZDb.png"
+   ],
+   "file": "covers/ojdt-tryky.png"
+  },
+  "akrb-mn-hbl-aloryd": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/v0zWJ4uWFf7RgA5n7di4t2FR8gNtKNpVTnPKjgQC.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/MljE9kyf4WVvUHPK83gQSIVLOVZad8VX1GOIJPqI.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/v0zWJ4uWFf7RgA5n7di4t2FR8gNtKNpVTnPKjgQC.png"
+   ],
+   "file": "covers/akrb-mn-hbl-aloryd.png"
+  },
+  "msa-alkhyr-ya-bshr-ana-ghz": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/mGNhWCAbwVKAML2klah9yeObfcJEzYhuqAIf8BvF.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/fNIlMdVVe8RH0VzwkaqMauERUHqHZcEyXysCkT0M.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/mGNhWCAbwVKAML2klah9yeObfcJEzYhuqAIf8BvF.png"
+   ],
+   "file": "covers/msa-alkhyr-ya-bshr-ana-ghz.png"
+  },
+  "ashaaar-almskany": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Ox3V09JgF6fenKOFEL0ZEzBxKQAnNiljRBkzSWqP.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/Ox3V09JgF6fenKOFEL0ZEzBxKQAnNiljRBkzSWqP.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/YyEM9vY5qoIsHgsUqhNfKK6tqHURuafsJRDq2KmP.png"
+   ],
+   "file": "covers/ashaaar-almskany.png"
+  },
+  "rofya-aal-aayny-tkblny": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zKMlffJW9q47zTbP5R7mK6puSAjEqy7E3Yhj3oAe.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/ULuLMNa3DnY4YzD9mTRumTg8yA6RCLR8gtlXG5GE.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/zKMlffJW9q47zTbP5R7mK6puSAjEqy7E3Yhj3oAe.png"
+   ],
+   "file": "covers/rofya-aal-aayny-tkblny.png"
+  },
+  "rsm-aal-rkham-alakteab": {
+   "og_image": "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/KsbnZI1jIE89NSBUcKOS26lNx2IXkfO2Q4ATeUvr.png",
+   "images": [
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/KsbnZI1jIE89NSBUcKOS26lNx2IXkfO2Q4ATeUvr.png",
+    "https://cdn.youcan.shop/stores/5ddc7b506f0600c428cd39917a8bd156/products/OH9QScJA9R6vSv3rn3ct04MRZSAEsPlHUn8yGJ22.png"
+   ],
+   "file": "covers/rsm-aal-rkham-alakteab.png"
+  }
+ }
+}
