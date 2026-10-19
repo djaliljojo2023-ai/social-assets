@@ -1,0 +1,19 @@
+name: fetch-shop
+on:
+  workflow_dispatch:
+  push:
+    paths: ['tools/shop-slugs.txt', 'tools/extra-urls.txt', 'tools/fetch_shop.py', '.github/workflows/fetch-shop.yml']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/fetch_shop.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add shop
+          git commit -m "Fetch shop covers, pages and logos" || echo "nothing to commit"
+          git push
