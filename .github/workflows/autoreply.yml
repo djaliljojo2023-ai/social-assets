@@ -20,4 +20,4 @@ jobs:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '1' }}  # scheduled runs stay dry until the first test is reviewed
