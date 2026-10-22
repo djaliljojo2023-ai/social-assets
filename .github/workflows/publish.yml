@@ -1,0 +1,28 @@
+name: publish
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Print what would be published without posting (1 = yes)'
+        default: '1'
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/publish.py
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || vars.PUBLISH_DRY_RUN || '0' }}
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add marouchka/published.json 2>/dev/null || true
+          git commit -m "Record published posts" || echo "nothing to commit"
+          git pull --rebase -q && git push || echo "push skipped"
